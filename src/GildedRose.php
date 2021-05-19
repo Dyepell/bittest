@@ -10,7 +10,7 @@ final class GildedRose
      * @var Item[]
      */
     private $items;
-
+    //test
     public function __construct(array $items)
     {
         $this->items = $items;
