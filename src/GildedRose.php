@@ -7,7 +7,7 @@ namespace GildedRose;
 
 final class GildedRose
 {
-    private $items;
+    public $items;
 
     //Массив необычных товаров. Ключ - название товара, значение - название функции ведущей просчет.
     private $specialProducts = [
